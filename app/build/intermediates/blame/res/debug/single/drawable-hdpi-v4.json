@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_share.png",
+        "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cabs.png",
+        "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\cabs.png"
+    },
+    {
+        "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\whatsapp.png",
+        "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\whatsapp.png"
+    },
+    {
+        "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_copy.png",
+        "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\ic_action_copy.png"
+    },
+    {
+        "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
+        "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_refresh.png",
+        "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recharge.png",
+        "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\recharge.png"
+    }
+]
