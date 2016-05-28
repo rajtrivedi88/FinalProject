@@ -44,11 +44,11 @@ public class MainActivity extends Activity {
         // list the drawer items
         ObjectDrawerItem[] drawerItem = new ObjectDrawerItem[5];
         
-        drawerItem[0] = new ObjectDrawerItem(R.drawable.whatsapp, "Whatsapp");
+        drawerItem[0] = new ObjectDrawerItem(R.drawable.whatsapp_new, "Whatsapp");
         drawerItem[1] = new ObjectDrawerItem(R.drawable.recharge, "Recharge Mobile");
-        drawerItem[2] = new ObjectDrawerItem(R.drawable.cabs, "Book Cab");
-        drawerItem[3]= new ObjectDrawerItem(R.drawable.ic_action_share, "Book Flight Ticket");
-        drawerItem[4]= new ObjectDrawerItem(R.drawable.ic_action_share, "Settings");
+        drawerItem[2] = new ObjectDrawerItem(R.drawable.cab, "Book Cab");
+        drawerItem[3]= new ObjectDrawerItem(R.drawable.flight, "Book Flight Ticket");
+        drawerItem[4]= new ObjectDrawerItem(R.drawable.settings, "Settings");
 
         
         // Pass the folderData to our ListView adapter
@@ -102,12 +102,12 @@ public class MainActivity extends Activity {
         }
 	}
 
-	@Override
+	/*@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
-	}
+	}*/
 	
 	
 	@Override
