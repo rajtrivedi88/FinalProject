@@ -34,5 +34,9 @@
     {
         "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings.png",
         "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "D:\\Android\\Open_Source\\NavigationDrawer\\5\\NavigationDrawerExample\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
     }
 ]

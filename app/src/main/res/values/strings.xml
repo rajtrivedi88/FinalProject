@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">StudyJamProject</string>
+    <string name="app_name">Mobile Tips</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Welcome to Study Jam</string>
 
@@ -61,6 +61,8 @@
     <string name="book_ticket_line3">3.Enter date and class type.</string>
 
     <string name="book_ticket_line4">4.Book suitable flight from available list.</string>
+
+    <string name="or_text">OR </string>
 
     <string name="settings_line1">1.Mobile Data can be turned on and off.</string>
     <string name="settings_line2">2.Ringtone can be set.</string>

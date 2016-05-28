@@ -37,5 +37,20 @@
         android:text="@string/recharge_mob_line4"
         android:textSize="16dp" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/or_text"
+        android:textSize="16dp" />
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Click to Recharge Mobile"
+        android:textSize="16dp" />
+
 </LinearLayout>
 </ScrollView>

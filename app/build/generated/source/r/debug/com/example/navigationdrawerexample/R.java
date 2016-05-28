@@ -18,23 +18,25 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int cab=0x7f020000;
-        public static final int flight=0x7f020001;
-        public static final int ic_action_copy=0x7f020002;
-        public static final int ic_action_refresh=0x7f020003;
-        public static final int ic_drawer=0x7f020004;
-        public static final int ic_launcher=0x7f020005;
-        public static final int recharge=0x7f020006;
-        public static final int settings=0x7f020007;
-        public static final int whatsapp_new=0x7f020008;
+        public static final int app_icon=0x7f020000;
+        public static final int cab=0x7f020001;
+        public static final int flight=0x7f020002;
+        public static final int ic_action_copy=0x7f020003;
+        public static final int ic_action_refresh=0x7f020004;
+        public static final int ic_drawer=0x7f020005;
+        public static final int ic_launcher=0x7f020006;
+        public static final int recharge=0x7f020007;
+        public static final int settings=0x7f020008;
+        public static final int whatsapp_new=0x7f020009;
     }
     public static final class id {
-        public static final int action_settings=0x7f090005;
+        public static final int action_settings=0x7f090006;
+        public static final int btn=0x7f090003;
         public static final int content_frame=0x7f090001;
         public static final int drawer_layout=0x7f090000;
-        public static final int imageViewIcon=0x7f090003;
+        public static final int imageViewIcon=0x7f090004;
         public static final int left_drawer=0x7f090002;
-        public static final int textViewName=0x7f090004;
+        public static final int textViewName=0x7f090005;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -64,21 +66,22 @@ public final class R {
         public static final int drawer_close=0x7f07000c;
         public static final int drawer_open=0x7f07000d;
         public static final int hello_world=0x7f07000e;
-        public static final int recharge_fragment=0x7f07000f;
-        public static final int recharge_mob_line1=0x7f070010;
-        public static final int recharge_mob_line2=0x7f070011;
-        public static final int recharge_mob_line3=0x7f070012;
-        public static final int recharge_mob_line4=0x7f070013;
-        public static final int settings_fragment=0x7f070014;
-        public static final int settings_line1=0x7f070015;
-        public static final int settings_line2=0x7f070016;
-        public static final int settings_line3=0x7f070017;
-        public static final int settings_line4=0x7f070018;
-        public static final int whatsapp_fragment=0x7f070019;
-        public static final int whatsapp_line1=0x7f07001a;
-        public static final int whatsapp_line2=0x7f07001b;
-        public static final int whatsapp_line3=0x7f07001c;
-        public static final int whatsapp_line4=0x7f07001d;
+        public static final int or_text=0x7f07000f;
+        public static final int recharge_fragment=0x7f070010;
+        public static final int recharge_mob_line1=0x7f070011;
+        public static final int recharge_mob_line2=0x7f070012;
+        public static final int recharge_mob_line3=0x7f070013;
+        public static final int recharge_mob_line4=0x7f070014;
+        public static final int settings_fragment=0x7f070015;
+        public static final int settings_line1=0x7f070016;
+        public static final int settings_line2=0x7f070017;
+        public static final int settings_line3=0x7f070018;
+        public static final int settings_line4=0x7f070019;
+        public static final int whatsapp_fragment=0x7f07001a;
+        public static final int whatsapp_line1=0x7f07001b;
+        public static final int whatsapp_line2=0x7f07001c;
+        public static final int whatsapp_line3=0x7f07001d;
+        public static final int whatsapp_line4=0x7f07001e;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

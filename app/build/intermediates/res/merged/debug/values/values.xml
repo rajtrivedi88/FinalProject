@@ -11,7 +11,7 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="action_settings">Settings</string>
-    <string name="app_name">StudyJamProject</string>
+    <string name="app_name">Mobile Tips</string>
     <string name="book_cab_fragment">Book Cab</string>
     <string name="book_cab_line1">1.Register with ola.</string>
     <string name="book_cab_line2">2.Choose cab type from among the list.</string>
@@ -25,6 +25,7 @@
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="hello_world">Welcome to Study Jam</string>
+    <string name="or_text">OR </string>
     <string name="recharge_fragment">Recharge fragment</string>
     <string name="recharge_mob_line1">1.Go to your service provider like airtel.com</string>
     <string name="recharge_mob_line2">2.Enter your phone no.</string>
