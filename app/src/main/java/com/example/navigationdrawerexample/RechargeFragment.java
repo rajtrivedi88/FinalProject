@@ -14,7 +14,7 @@ import android.widget.Button;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class RechargeFragment extends Fragment implements View.OnClickListener {
+public class RechargeFragment extends Fragment /*implements View.OnClickListener */{
 
 
     public RechargeFragment() {
@@ -28,12 +28,12 @@ public class RechargeFragment extends Fragment implements View.OnClickListener {
         // Inflate the layout for this fragment
         View rootView= inflater.inflate(R.layout.fragment_recharge, container, false);
 
-        Button btn=(Button)rootView.findViewById(R.id.btn);
-        btn.setOnClickListener(this);
+      /*  Button btn=(Button)rootView.findViewById(R.id.btn);
+        btn.setOnClickListener(this);*/
         return rootView;
     }
 
-    @Override
+   /* @Override
     public void onClick(View v) {
 
         final String appPackageName = "com.airtel"; // getPackageName() from Context or Activity object
@@ -42,7 +42,7 @@ public class RechargeFragment extends Fragment implements View.OnClickListener {
         } catch (android.content.ActivityNotFoundException anfe) {
             startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=" + appPackageName)));
         }
-    }
+    }*/
 
 
 }

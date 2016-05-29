@@ -163,7 +163,6 @@ public class MainActivity extends Activity {
             case 4:
                 fragment=new SettingsFragment();
                 break;
-
         default:
             break;
         }
