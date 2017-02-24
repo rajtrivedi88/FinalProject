@@ -35,6 +35,9 @@ public class MainActivity extends Activity {
 		
 		// for proper titles
 		mTitle = mDrawerTitle = getTitle();
+
+        //raj comment at 10:54am
+        ///Users/rajtrivedi/raj/Android/my_practice/git_practice/project/FinalProject/app/src/main/java/com/example/navigationdrawerexample/MainActivity.ja
 		
 		// initialize properties
 		mNavigationDrawerItemTitles = getResources().getStringArray(R.array.navigation_drawer_items_array);
